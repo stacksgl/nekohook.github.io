@@ -16,7 +16,7 @@ function loaded() {
 
 var x = 0;
 
-var titleText = ["n", "n_", "ne", "ne_", "nek", "nek_", "neko", "neko_", "nekoh", "nekoh_", "nekohoo", "nekohoo_", "nekohook", "nekohook_", "nekohoo", "nekohoo_", "nekoho_", "nekoh", "nekoh_", "neko", "neko_", "neko", "nekoh_", "nekoho", "nekoho_", "nekohoo", "nekoo_", "nekohook", "nekohoo", "nekoho_", "neko", "nek_", "ne", "n_" ];
+var titleText = ["n", "n_", "ne", "ne_", "nek", "nek_", "neko", "neko_", "nekoh", "nekoh_", "nekoho", "nekoho_", "nekohoo", "nekohoo_", "nekohook", "nekohook_", "nekohoo", "nekohoo_", "nekoho_", "nekoh", "nekoh_", "neko", "neko_", "neko", "nekoh_", "nekoho", "nekoho_", "nekohoo", "nekoo_", "nekohook", "nekohoo", "nekoho_", "neko", "nek_", "ne", "n_" ];
 
 function loop() {
 
